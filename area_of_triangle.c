@@ -21,5 +21,3 @@ int main()
 	areaoftriangle(a,b,c);
 	return 0;
 }
-
-//gcc filename -lm
